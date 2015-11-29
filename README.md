@@ -1,1 +1,1 @@
-init it!
+branch for jekyll_blog
